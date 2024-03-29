@@ -42,4 +42,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: nikolajankovik/kii-actions-demo-01:latest
+          tags: nikolajankovikj/kii-actions-demo-01:latest
